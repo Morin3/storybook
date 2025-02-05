@@ -206,8 +206,8 @@
     "ts-dedent": "^2.0.0",
     "typescript": "^5.4.3",
     "util": "^0.12.4",
-    "vite": "^4.0.0",
-    "vitest": "^2.0.5",
+    "vite": "^6.1.0",
+    "vitest": "^3.0.5",
     "wait-on": "^7.0.1"
   },
   "dependenciesMeta": {

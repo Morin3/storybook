@@ -110,7 +110,7 @@
     "ejs-lint": "^2.0.0",
     "esbuild": "^0.23.0",
     "esbuild-plugin-alias": "^0.2.1",
-    "eslint": "^8.57.0",
+    "eslint": "^10.0.0",
     "eslint-config-airbnb-typescript": "^18.0.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-eslint-comments": "^3.2.0",

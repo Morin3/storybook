@@ -6062,7 +6062,7 @@ __metadata:
     glob: "npm:^10.0.0"
     globby: "npm:^14.0.1"
     handlebars: "npm:^4.7.7"
-    js-yaml: "npm:^4.1.0"
+    js-yaml: "npm:^4.3.2"
     jsdoc-type-pratt-parser: "npm:^4.0.0"
     lazy-universal-dotenv: "npm:^4.0.0"
     leven: "npm:^4.0.0"
@@ -18122,6 +18122,17 @@ __metadata:
   bin:
     js-yaml: bin/js-yaml.js
   checksum: 10c0/6746baaaeac312c4db8e75fa22331d9a04cccb7792d126ed8ce6a0bbcfef0cedaddd0c5098fade53db067c09fe00aa1c957674b4765610a8b06a5a189e46433b
+  languageName: node
+  linkType: hard
+
+"js-yaml@npm:^4.3.2":
+  version: 4.3.2
+  resolution: "js-yaml@npm:4.3.2"
+  dependencies:
+    argparse: "npm:^2.0.1"
+  bin:
+    js-yaml: bin/js-yaml.js
+  checksum: 10c0/dedd34c2e8fef1d504687f1bc94ed0ee1311a1f78770fa2800352c6d59c635ccf555009d74e9afe529ae62199da2b1ccef30e53dc84dcd8d2d8187c22574bc97
   languageName: node
   linkType: hard
 

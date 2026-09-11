@@ -367,7 +367,7 @@
     "glob": "^10.0.0",
     "globby": "^14.0.1",
     "handlebars": "^4.7.7",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.3.2",
     "jsdoc-type-pratt-parser": "^4.0.0",
     "lazy-universal-dotenv": "^4.0.0",
     "leven": "^4.0.0",

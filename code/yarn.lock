@@ -6379,7 +6379,7 @@ __metadata:
     css-loader: "npm:^6.7.3"
     find-up: "npm:^5.0.0"
     fs-extra: "npm:^11.1.0"
-    image-size: "npm:^1.0.0"
+    image-size: "npm:^2.0.3"
     loader-utils: "npm:^3.2.1"
     next: "npm:^14.1.0"
     node-polyfill-webpack-plugin: "npm:^2.0.1"
@@ -17015,17 +17015,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"image-size@npm:^1.0.0":
-  version: 1.0.2
-  resolution: "image-size@npm:1.0.2"
-  dependencies:
-    queue: "npm:6.0.2"
-  bin:
-    image-size: bin/image-size.js
-  checksum: 10c0/df518606c75d0ee12a6d7e822a64ef50d9eabbb303dcee8c9df06bad94e49b4d4680b9003968203f239ff39a9cc51d4ff1781cd331cc0a4b3b858d9fc9836c68
-  languageName: node
-  linkType: hard
-
 "image-size@npm:^1.1.1":
   version: 1.1.1
   resolution: "image-size@npm:1.1.1"
@@ -17034,6 +17023,15 @@ __metadata:
   bin:
     image-size: bin/image-size.js
   checksum: 10c0/2660470096d12be82195f7e80fe03274689fbd14184afb78eaf66ade7cd06352518325814f88af4bde4b26647889fe49e573129f6e7ba8f5ff5b85cc7f559000
+  languageName: node
+  linkType: hard
+
+"image-size@npm:^2.0.3":
+  version: 2.0.3
+  resolution: "image-size@npm:2.0.3"
+  bin:
+    image-size: bin/image-size.js
+  checksum: 10c0/bfd1cc9b45c68e329411877e5f2a176a1cad77cff8d28357930bb4c23c94bbadc9c7e59a2ee1c7d05c76aa164f58f63ff249c24480a958245442888420ff6bb2
   languageName: node
   linkType: hard
 
